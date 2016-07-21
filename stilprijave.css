@@ -1,0 +1,43 @@
+body{
+	margin:auto;
+	text-align:center;
+	background-color:#000274;
+	color:white;
+}
+
+#prva{
+	padding-top:10px;
+	text-align:right;
+	padding-right:20px;
+}
+
+#druga{
+	text-align:right;
+	padding-right:20px;
+}
+
+#sadrzaj{
+	display:block;
+	padding:10%;
+	margin:5%;
+	font-size:1.5em;
+	border:1px solid #FFFFFF;
+	border-radius:10px;
+	background-color:#000000;
+	color:#FFFFFF;
+	width:1 vw;
+}
+
+#footer{
+	text-align:center;
+	padding-top:2%;
+	padding-left:40px;
+	border-top:1px solid #FFFFFF;
+	border-radius:10px;
+	margin:0;
+}
+
+a{
+	text-decoration:none;
+	color:white;
+}
