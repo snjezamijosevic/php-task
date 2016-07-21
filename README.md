@@ -11,4 +11,4 @@ svoju omiljenu boju), a boja pozadine profila je crna, te stranicu za registrira
 
 stranica za prijavu je prijava.php.
 
-CSS kod za pojedine stranice nalazi se u folderu css.
+
