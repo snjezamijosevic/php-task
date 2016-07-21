@@ -9,6 +9,6 @@ Logirani korisnik može vidjeti svoj profil (na kojem je tekst u onoj boji koju 
 svoju omiljenu boju), a boja pozadine profila je crna, te stranicu za registrirane korisnike
 (na njoj je rečenica "It works!", te gumbi na profil i za odjavu).
 
-stranica za prijavu je prijava.php.
+Stranica za prijavu je prijava.php.
 
 
