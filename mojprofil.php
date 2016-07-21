@@ -5,7 +5,7 @@
 <head>
 	<title>Moj profil</title>
 	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="css/profil.css"/>
+	<link rel="stylesheet" type="text/css" href="profil.css"/>
 	<script type="text/javascript" src="js/jquery.js"></script>
 </head>
 <body>
